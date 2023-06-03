@@ -14,7 +14,7 @@ on:
     # POSIX cron 语法，只有五个域：分 时 日 月 周
     # https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07
     #- cron:  0 16,22 * * *  
-    - cron:  32 5 * * *  
+    - cron:  50 5 * * *  
 
 jobs:
   checkin:
